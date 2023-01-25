@@ -1,16 +1,39 @@
-### Hi there 👋
+<p align="center">
+<a href="https://discord.gg/comet-network">
+<img src="https://media.discordapp.net/attachments/"
+</a>
+</p>
 
-<!--
-**aspell1337/aspell1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://discord.gg/comet-network">
+<img src="https://lanyard.cnrad.dev/api/1032639644363403389?hideTimestamp=false&hideBadges=false&idleMessage=Work%20on%20Discord%20CapingTeam"
+</a>
+</p>
 
-Here are some ideas to get you started:
+  
+### Aspell Code With ❤️
+<a href="https://github.com/aspell1337">
+    <img src="https://komarev.com/ghpvc/?username=aspell" alt="page views" />
+  </a>
+  <a href="https://github.com/aspell1337">
+  <img src="https://img.shields.io/github/followers/aspell1337.svg?style=social&label=Follow&maxAge=2592000">
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🏆 GitHub Profile Trophy:
+---
+<a href="https://github.com/aspell1337/github-profile-trophy">
+  <p align="center">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=aspell1337&column=8&theme=radical&no-frame=true&no-bg=true"/>
+    </p>
+</a>
+
+
+
+### 📊 GitHub Stats:
+---
+| <a href="KSCH Github Stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aspell1337&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
+  
+![KSCH Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KSCHdsc&theme=solarized_dark)
+![KSCH Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KSCHdsc&theme=solarized_dark)
+![KSCH Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KSCHdsc&theme=solarized_dark)
