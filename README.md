@@ -34,6 +34,6 @@
 ---
 | <a href="KSCH Github Stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aspell1337&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
   
-![KSCH Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KSCHdsc&theme=solarized_dark)
-![KSCH Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KSCHdsc&theme=solarized_dark)
-![KSCH Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KSCHdsc&theme=solarized_dark)
+![KSCH Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aspell1337&theme=solarized_dark)
+![KSCH Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aspell1337&theme=solarized_dark)
+![KSCH Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aspell1337&theme=solarized_dark)
